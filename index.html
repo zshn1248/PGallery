@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PGallery - Pi App</title>
+  <script src="https://sdk.minepi.com/pi-sdk.js"></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <h1>Welcome to PGallery</h1>
+
+  <div id="loginSection">
+    <button onclick="loginWithPi()">Login with Pi</button>
+  </div>
+
+  <div id="userSection" style="display:none;">
+    <p id="userInfo"></p>
+    <button onclick="payWithPi()">Unlock Photo (3 Pi)</button>
+    <p id="paymentStatus"></p>
+  </div>
+</body>
+</html>
