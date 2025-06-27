@@ -1,5 +1,5 @@
 // Replace this with your actual API key if needed in server setup
-const API_KEY = "PASTE-YOUR-API-KEY-HERE";  // placeholder, not used in frontend
+const API_KEY = "xddl0mfllukp7ga0t6q5vsqcs7f9cbdbj1hbhm169myz0w3ptr8724ndhr98r2jw";  // placeholder, not used in frontend
 
 // Payment amount for unlocking a premium photo
 const PREMIUM_PHOTO_AMOUNT = 3;
